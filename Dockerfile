@@ -1,4 +1,4 @@
-FROM kmallea/steamcmd
+FROM morpig/steamcmd
 
 MAINTAINER Kai Mallea <kmallea@gmail.com>
 
